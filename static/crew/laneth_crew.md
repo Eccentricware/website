@@ -3,9 +3,9 @@ name: Laneth
 rarity: 4
 series: ent
 memory_alpha:
-bigbook_tier: 5
-events: 16
-in_portal:
+bigbook_tier: 6
+events: 17
+in_portal: true
 date: 08/12/2020
 obtained: Pack
 mega: false
